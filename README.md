@@ -7,6 +7,8 @@
 📫 reach me at arungokul2005@gmail.com
 ⚡ Fun fact: you have spent 20secs reading about me
 
+---
+
 ### My Skillset
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
